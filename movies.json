@@ -1,0 +1,224 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "genre": ["bilim kurgu", "aksiyon", "macera"],
+        "ageRating": "13+",
+        "rating": 8.8,
+        "description": "Dom Cobb'un rüyalara girip bilinçaltından değerli sırları çalma yeteneğine sahip bir hırsız olduğu, zihin manipülasyonlarıyla dolu bir hikaye.",
+        "keywords": ["zihin", "rüya", "gerçeklik", "düşünce", "teknoloji"]
+      },
+      {
+        "id": 2,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "genre": ["suç", "dram"],
+        "ageRating": "18+",
+        "rating": 8.9,
+        "description": "Los Angeles'ta yaşayan suçluların, boksörlerin ve gangsterlerin birbirine bağlanan hikayelerini anlatan kült film.",
+        "keywords": ["şiddet", "gangster", "karanlık mizah", "zaman çizelgesi"]
+      },
+      {
+        "id": 3,
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "genre": ["romantik", "dram", "tarih"],
+        "ageRating": "13+",
+        "rating": 7.9,
+        "description": "Farklı sosyal sınıflardan olan Jack ve Rose'un Titanic'in ilk ve son yolculuğunda yaşadıkları trajik aşk hikayesi.",
+        "keywords": ["aşk", "gemi kazası", "tarihi olay", "fedakarlık"]
+      },
+      {
+        "id": 4,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "genre": ["dram"],
+        "ageRating": "16+",
+        "rating": 9.3,
+        "description": "Masum bir adam olan Andy Dufresne'nin haksız yere hapse girmesi ve hapishane hayatı boyunca yaşadığı olayları anlatan film.",
+        "keywords": ["hapishane", "umut", "dostluk", "adalet", "kaçış"]
+      },
+      {
+        "id": 5,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "genre": ["bilim kurgu", "macera"],
+        "ageRating": "13+",
+        "rating": 8.2,
+        "description": "Genetik mühendisliği ile yeniden hayata döndürülen dinozorların bulunduğu bir tema parkta yaşanan tehlikeli olaylar.",
+        "keywords": ["dinozor", "genetik", "park", "bilim", "macera"]
+      },
+      {
+        "id": 6,
+        "title": "Toy Story",
+        "year": 1995,
+        "director": "John Lasseter",
+        "genre": ["animasyon", "komedi", "aile"],
+        "ageRating": "genel",
+        "rating": 8.3,
+        "description": "Bir çocuğun oyuncaklarının, sahipleri yokken canlandıklarını ve kendi aralarında yaşadıkları maceraları anlatan film.",
+        "keywords": ["oyuncak", "çocuk", "arkadaşlık", "animasyon", "hayal gücü"]
+      },
+      {
+        "id": 7,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "genre": ["aksiyon", "suç", "dram"],
+        "ageRating": "13+",
+        "rating": 9.0,
+        "description": "Batman'in Joker ile mücadelesini ve Gotham şehrinin kaotik durumunu anlatan film.",
+        "keywords": ["süper kahraman", "kötü adam", "adalet", "ahlak", "kaos"]
+      },
+      {
+        "id": 8,
+        "title": "Spirited Away",
+        "year": 2001,
+        "director": "Hayao Miyazaki",
+        "genre": ["animasyon", "macera", "fantastik"],
+        "ageRating": "genel",
+        "rating": 8.6,
+        "description": "10 yaşındaki Chihiro'nun, anne ve babasıyla birlikte yanlışlıkla ruhlar dünyasına girişini ve buradaki macerasını konu alan film.",
+        "keywords": ["ruhlar", "büyülü dünya", "büyüme", "cesaret", "dostluk"]
+      },
+      {
+        "id": 9,
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "The Wachowskis",
+        "genre": ["bilim kurgu", "aksiyon"],
+        "ageRating": "16+",
+        "rating": 8.7,
+        "description": "Bilgisayar programcısı Neo'nun gerçek dünya ile sanal dünya arasındaki farkı öğrenmesini ve insanlığı kurtarma mücadelesini anlatan film.",
+        "keywords": ["sanal gerçeklik", "yapay zeka", "simülasyon", "özgürlük", "teknoloji"]
+      },
+      {
+        "id": 10,
+        "title": "Schindler's List",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "genre": ["biyografi", "dram", "tarih"],
+        "ageRating": "18+",
+        "rating": 9.0,
+        "description": "2. Dünya Savaşı sırasında Oskar Schindler'in fabrikasında çalıştırarak 1100'den fazla Yahudi'yi Nazi toplama kamplarından kurtarma hikayesi.",
+        "keywords": ["savaş", "soykırım", "kurtuluş", "insanlık", "tarih"]
+      },
+      {
+        "id": 11,
+        "title": "Finding Nemo",
+        "year": 2003,
+        "director": "Andrew Stanton",
+        "genre": ["animasyon", "aile", "macera"],
+        "ageRating": "genel",
+        "rating": 8.2,
+        "description": "Oğlu Nemo'yu arayan baba palyaço balığı Marlin'in okyanustaki arayış macerası.",
+        "keywords": ["deniz", "ebeveynlik", "arama", "cesaret", "arkadaşlık"]
+      },
+      {
+        "id": 12,
+        "title": "Fight Club",
+        "year": 1999,
+        "director": "David Fincher",
+        "genre": ["dram"],
+        "ageRating": "18+",
+        "rating": 8.8,
+        "description": "Kimliksiz bir anlatıcının Tyler Durden adlı karakterle tanışması ve yeraltı dövüş kulübü kurmasını anlatan film.",
+        "keywords": ["kimlik", "tüketim toplumu", "psikoloji", "anarşi", "benlik"]
+      },
+      {
+        "id": 13,
+        "title": "The Lion King",
+        "year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "genre": ["animasyon", "aile", "macera"],
+        "ageRating": "genel",
+        "rating": 8.5,
+        "description": "Genç aslan Simba'nın babasının ölümünden sonra sürgüne gitmesi ve krallığını geri alma mücadelesini anlatan film.",
+        "keywords": ["hayvanlar", "krallık", "büyüme", "sorumluluk", "aile"]
+      },
+      {
+        "id": 14,
+        "title": "Parasite",
+        "year": 2019,
+        "director": "Bong Joon-ho",
+        "genre": ["komedi", "dram", "gerilim"],
+        "ageRating": "16+",
+        "rating": 8.5,
+        "description": "Yoksul bir ailenin zengin bir ailenin hayatına sızmasını ve bunun sonuçlarını anlatan film.",
+        "keywords": ["sınıf farkı", "sosyal tabaka", "eşitsizlik", "zenginlik", "yoksulluk"]
+      },
+      {
+        "id": 15,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "genre": ["dram", "romantik"],
+        "ageRating": "13+",
+        "rating": 8.8,
+        "description": "IQ'su düşük olan Forrest Gump'ın hayat hikâyesini ve Amerika'nın önemli tarihi olaylarına tanık olmasını anlatan film.",
+        "keywords": ["tarih", "aşk", "yaşam öyküsü", "alçakgönüllülük", "kader"]
+      },
+      {
+        "id": 16,
+        "title": "The Avengers",
+        "year": 2012,
+        "director": "Joss Whedon",
+        "genre": ["aksiyon", "macera", "bilim kurgu"],
+        "ageRating": "13+",
+        "rating": 8.0,
+        "description": "Dünyayı tehdit eden Loki'ye karşı süper kahramanların bir araya gelerek oluşturduğu takımın mücadelesi.",
+        "keywords": ["süper kahraman", "takım çalışması", "Marvel", "uzaylılar", "savaş"]
+      },
+      {
+        "id": 17,
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "genre": ["suç", "dram"],
+        "ageRating": "18+",
+        "rating": 9.2,
+        "description": "Corleone mafya ailesinin başı Vito Corleone ve ailesinin hikayesini anlatan efsanevi film.",
+        "keywords": ["mafya", "aile", "güç", "intikam", "sadakat"]
+      },
+      {
+        "id": 18,
+        "title": "Frozen",
+        "year": 2013,
+        "director": "Chris Buck, Jennifer Lee",
+        "genre": ["animasyon", "aile", "müzikal"],
+        "ageRating": "genel",
+        "rating": 7.4,
+        "description": "Buzları kontrol edebilen güçlere sahip Kraliçe Elsa ve kız kardeşi Anna'nın maceralarını konu alan film.",
+        "keywords": ["kış", "kardeşlik", "sihir", "müzik", "prenses"]
+      },
+      {
+        "id": 19,
+        "title": "Interstellar",
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "genre": ["bilim kurgu", "macera", "dram"],
+        "ageRating": "13+",
+        "rating": 8.6,
+        "description": "İnsanlığın geleceğini kurtarmak için yeni bir gezegen aramak üzere uzaya giden bir grup astronotun hikayesi.",
+        "keywords": ["uzay", "zaman", "aile", "kara delik", "gezegen"]
+      },
+      {
+        "id": 20,
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "genre": ["bilim kurgu", "macera", "aksiyon"],
+        "ageRating": "13+",
+        "rating": 7.8,
+        "description": "Pandora gezegenindeki Na'vi halkı ile insanlar arasındaki çatışmayı ve bir askerin Na'vi bedenine transfer edilmesini anlatan film.",
+        "keywords": ["doğa", "yabancı gezegen", "savaş", "uygarlık çatışması", "çevre"]
+      }
+    ]
+  }
